@@ -47,3 +47,5 @@ mvn verify
   "moyenne": 14.5
 }
 ```
+
+Test webhook CI - Ndongo
